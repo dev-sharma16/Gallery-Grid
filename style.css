@@ -39,7 +39,7 @@ body {
 }
 .box {
   background-size: cover;
-  background-position: top;
+  background-position: bottom;
   color: white;
   display: flex;
   justify-content: center;
